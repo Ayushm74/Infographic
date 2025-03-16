@@ -1,0 +1,86 @@
+/* General Styles */
+body {
+    background-color: #f8f9fa; /* Light background for better contrast */
+    color: #333; /* Darker text for readability */
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Embed Codes Section */
+  .embed-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .embed-section h3 {
+    color: #222; /* Dark heading */
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .embed-box {
+    background: #f1f1f1;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+  }
+  
+  .embed-box h4 {
+    color: #444; /* Darker subtitle */
+    margin-bottom: 5px;
+  }
+  
+  .embed-box input,
+  .embed-box textarea {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    background: white;
+    color: #222; /* Dark text */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .embed-container {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .embed-box {
+    margin-bottom: 15px;
+  }
+  
+  h3, h4 {
+    color: #333;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .screenshot-btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .screenshot-btn:hover {
+    background: #0056b3;
+  }
+  
+  
