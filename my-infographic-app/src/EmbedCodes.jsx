@@ -1,6 +1,6 @@
 import React, { useRef } from "react";
 import html2canvas from "html2canvas";
-import "./EmbedCodes.css"; // Import CSS file
+import "./EmbedCodes.css"; 
 
 const EmbedCodes = () => {
   const embedRef = useRef(null);
