@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import InfographicPage from "./InfographicPage";
-import EmbedCodes from "./EmbedCodes"; // Corrected import name
+import EmbedCodes from "./EmbedCodes"; 
 const App = () => {
   return (
     <div>
