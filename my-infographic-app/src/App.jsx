@@ -7,7 +7,7 @@ const App = () => {
     <div>
       <Navbar />
       <InfographicPage />
-      <EmbedCodes /> {/* Updated component name */}
+      <EmbedCodes /> {/* Updated component name*/}
     </div>
   );
 };
